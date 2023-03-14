@@ -1,0 +1,12 @@
+{
+  "name": "testroun3",
+  "version": "1.0.0",
+  "description": "This is a BuyUme test",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagar Das",
+  "license": "ISC"
+}
